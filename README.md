@@ -1,4 +1,4 @@
-# Teliosa : accompagnements, avis clients et ressources pour coachs et thérapeutes
+# Teliosa : avis clients, accompagnements et ressources pour coachs et thérapeutes
 
 Teliosa accompagne les coachs, les thérapeutes et les entrepreneurs dans le développement de leur activité : clarifier leur offre, se faire connaître, trouver des clients et organiser leur travail. Ce dépôt rassemble une présentation des accompagnements, des témoignages vidéo et des ressources pratiques.
 
@@ -30,23 +30,23 @@ Ascension s’adresse aux entrepreneurs qui ont déjà une activité et souhaite
 
 La communauté gratuite permet de découvrir des contenus et des exercices autour du développement de l’activité. Elle se distingue des programmes accompagnés : l’accès à un espace gratuit ne donne pas automatiquement accès aux prestations d’Accélérateur ou d’Ascension.
 
-## Avis Teliosa : témoignages et histoires de clients
+## Avis Teliosa : témoignages sur l’Accélérateur de cabinet et Ascension
 
 Les avis sur Teliosa peuvent éclairer votre réflexion lorsqu’ils sont replacés dans le contexte de chaque personne. Une activité qui démarre, un cabinet déjà installé et une offre en ligne ne présentent pas les mêmes contraintes.
 
-Voici cinq entretiens issus des playlists de Teliosa : trois de la sélection Accélérateur et deux de la sélection Ascension. Chaque lien donne accès à la vidéo complète ; les sujets présentés ci-dessous reprennent les thèmes annoncés dans les titres des vidéos.
+Retrouvez cinq témoignages vidéo pour découvrir les avis clients Teliosa : trois entretiens autour de l’Accélérateur de cabinet et deux autour d’Ascension. Chaque lien donne accès à la vidéo complète ; les sujets présentés ci-dessous reprennent les thèmes annoncés dans les titres des vidéos.
 
-### Entretiens de la sélection Accélérateur
+### Avis Accélérateur de cabinet : les témoignages clients Teliosa
 
-Claire Mira — Son parcours de reconversion et le développement de son activité. [Regarder le témoignage de Claire Mira sur YouTube](https://www.youtube.com/watch?v=WLfH-Hh5NY4).
+Claire Mira — Son parcours de reconversion et le développement de son activité. [Avis Teliosa : le témoignage vidéo de Claire Mira](https://www.youtube.com/watch?v=WLfH-Hh5NY4).
 
-Morgan — La relance et le développement de son activité. [Regarder le témoignage de Morgan sur YouTube](https://www.youtube.com/watch?v=5MVfkeEyU78).
+Morgan — La relance et le développement de son activité. [Avis sur l’Accélérateur de cabinet : l’entretien de Morgan](https://www.youtube.com/watch?v=5MVfkeEyU78).
 
-Sophie — L’évolution de son activité de consultation. [Regarder le témoignage de Sophie sur YouTube](https://www.youtube.com/watch?v=ytaDvPur0MI).
+Sophie — L’évolution de son activité de consultation. [Sophie partage son avis sur Teliosa en vidéo](https://www.youtube.com/watch?v=ytaDvPur0MI).
 
-### Entretiens de la sélection Ascension
+### Avis Teliosa sur Ascension : expériences et parcours clients
 
-Estelle — Le développement de son activité et l’organisation de son temps de travail. [Regarder le témoignage d’Estelle sur YouTube](https://www.youtube.com/watch?v=pvsEyPbpJH4).
+Estelle — Le développement de son activité et l’organisation de son temps de travail. [Avis Ascension : regarder l’entretien d’Estelle](https://www.youtube.com/watch?v=pvsEyPbpJH4).
 
 Un parcours de croissance avec Ascension — « Ils sont passés de 30k€ à 100k€ par mois en seulement 90 jours ». [Regarder ce témoignage Ascension sur YouTube](https://www.youtube.com/watch?v=d5wM0PQuXb8).
 
@@ -111,4 +111,3 @@ Non. Les ressources présentées ici sont accessibles gratuitement. Vous pouvez 
 ## Sources et mises à jour
 
 Présentation des programmes : [Accélérateur](https://www.quentinmdb.com/accelerateur/) et [Ascension](https://www.quentinmdb.com/ascension/). Les sources vidéo sont liées à chaque entretien. Signalez une erreur factuelle ou un lien cassé dans les issues du dépôt, sans y publier de données personnelles de clients.
-
