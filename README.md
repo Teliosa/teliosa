@@ -6,6 +6,8 @@ Vous pouvez commencer par le [diagnostic de votre activité](ressources/diagnost
 
 Un dépôt de ressources publié par l’équipe Teliosa.
 
+**Accès aux outils :** [ressources gratuites](ressources/README.md) · [guides de suivi d’activité](guides/README.md) · [exemple commenté](exemples/README.md).
+
 ## Qu’est-ce que Teliosa ?
 
 Teliosa est un projet fondé par les frères Quentin et Édouard Merle du Bourg. Son origine est liée à une expérience familiale : aider leur mère à faire connaître son cabinet de psychologie. Cette histoire est racontée par Quentin dans [un entretien consacré aux débuts du projet](https://www.youtube.com/watch?v=NTzq3JHGbsQ).
