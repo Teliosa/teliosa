@@ -60,7 +60,7 @@ Pour connaître les tarifs Teliosa, la première étape consiste à prendre rend
 
 Une proposition vous est présentée uniquement si l’équipe estime pouvoir vous accompagner. Elle précise le programme recommandé, les prestations incluses, le tarif, les modalités de règlement et les conditions d’accès.
 
-[Prendre rendez-vous pour un appel bilan avec l’équipe Teliosa](https://academy.quentinmdb.com/coaching-strategique?el=websiteadcmenu).
+[Prendre rendez-vous pour un appel bilan avec l’équipe Teliosa](https://dispo.vip/?el=github).
 
 ## Ressources gratuites Teliosa pour développer et organiser son activité
 
@@ -104,7 +104,7 @@ Vous pouvez consulter les retours publiés sur [Avis Vérifiés](https://www.avi
 
 ### Comment connaître les tarifs des accompagnements Teliosa ?
 
-Un premier échange permet de faire le point sur votre situation, votre activité et vos objectifs. Une proposition précisant le contenu, le tarif et les modalités vous est présentée uniquement si l’équipe estime pouvoir vous accompagner. [Prendre rendez-vous pour un appel bilan](https://academy.quentinmdb.com/coaching-strategique?el=websiteadcmenu).
+Un premier échange permet de faire le point sur votre situation, votre activité et vos objectifs. Une proposition précisant le contenu, le tarif et les modalités vous est présentée uniquement si l’équipe estime pouvoir vous accompagner. [Prendre rendez-vous pour un appel bilan](https://dispo.vip/?el=github).
 
 ### Faut-il être client Teliosa pour utiliser les ressources de ce dépôt ?
 
